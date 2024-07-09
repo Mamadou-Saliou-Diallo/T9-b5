@@ -4,6 +4,9 @@ body {
     padding: 0;
     box-sizing: border-box;
 }
+.containers{
+    padding: 5%;
+}
 .icone{
     width: 10%;
     height: auto;
@@ -46,3 +49,25 @@ body {
     width: 100%;
     height: 70%;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;}
+
+ /* ---------------------------------------hover------------------------------------------------- */
+
+    #card{
+        transition: all 0.5s ease;
+    }
+    #card:hover{
+        cursor: pointer;
+        box-shadow: 0.5rem 1rem rgba(0, 0, 0, .15);
+        transform: scale(1.1);
+    }
+    #acuie{
+        height: 100%;
+        
+    }
+    .accueil{
+        background-image: url(img/bga.jpeg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 500px;
+    }
