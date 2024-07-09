@@ -4,9 +4,6 @@ body {
     padding: 0;
     box-sizing: border-box;
 }
-.containers{
-    padding: 5%;
-}
 .icone{
     width: 10%;
     height: auto;
@@ -61,13 +58,6 @@ body {
         transform: scale(1.1);
     }
     #acuie{
-        height: 100%;
-        
-    }
-    .accueil{
         background-image: url(img/bga.jpeg);
         background-size: cover;
-        background-repeat: no-repeat;
-        background-position: center;
-        height: 500px;
     }
