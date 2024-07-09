@@ -11,6 +11,9 @@ body {
 .navbar {
     margin-bottom: 20px;
 }
+.navbar-toggler{
+    margin-left: auto;
+}
 .footer {
     background-color: #f8f9fa;
     padding: 20px 0;
