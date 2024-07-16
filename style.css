@@ -46,12 +46,21 @@ body {
     background-color: rgb(189, 180, 181);
     color: white;
 }
-.contact{
+.contact,
+#footerrr{
     background-color: rgb(189, 180, 181);
 }
 #img1{
     width: 100%;
     height: 80%;
+}
+.card:hover{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    background-color: rgb(82, 170, 31);
+}
+#text-hover:hover{
+   
+   background-color: white;
 }
 
  /* ---------------------------------------hover------------------------------------------------- */
