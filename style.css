@@ -55,10 +55,10 @@ body {
     height: 80%;
 }
 .card:hover{
-    background-color: rgb(189, 180, 181);}
+    background-color: rgb(189, 180, 181);
+    color: white;
+}
 #text-hover:hover{
-   
-   background-color: white;
 }
 
  /* ---------------------------------------hover------------------------------------------------- */
